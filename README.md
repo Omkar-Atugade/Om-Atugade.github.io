@@ -11,7 +11,7 @@ This is a guided project on [ Coursera  ](https://www.google.com/search?q=course
 
 Thanks to Harrison Kong for guiding me throghout this project.
 
-I have used some basic HTML tags and CSS to style my page which I have learned. 
+I have used some basic HTML tags and CSS to create this website. 
 
 ## My Site : ##
 [ Go to my site ](https://omkar-atugade-portal.netlify.app)
